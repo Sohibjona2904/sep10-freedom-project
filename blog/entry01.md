@@ -10,6 +10,15 @@ What interests me about architecture is that every project has constraints. A bu
 
 While exploring this topic  I read articles such as [The Impact of Emerging AI Technologies on Architecture](https://communityhub.aia.org/blogs/rebecca-w-edmunds-aia/2023/09/06/the-impact-of-emerging-ai-technologies-on-architec), (How Tech Will Change Architecture Over the Next 10 Years)[https://www.nichiha.com/how-tech-will-change-architecture-over-the-next-10-years]. These sources helped me see that architecture is much more than designing buildings. Modern architects use technologies such as Building Information Modeling (BIM), virtual reality digital simulations, and artificial intelligence to test ideas, improve designs, and solve problems before construction even begins. Learning about these technologies made architecture even more interesting to me because it let me combine creativity, technology and problem solving more easily.
 
+## Other Topics I Considered
+
+Before deciding on architecture I also considered automotive design and interior design.
+
+Automotive design appealed to me because it shares similarities to architecture. Designing a vehicle requires fitting many components into a tight space while accounting for thermodynamics, its repeatability and cost. I liked how much thought goes into creating a design under strict constraints. However, I felt architecture would allow me to be a little more creative in my design process on a much larger scale.
+
+Interior design was another field I looked into. Compared to Automotive design and Architecture it allows me to take more creative freedoms.  However, I found it to be more subjective because different people may have different opinions regarding the design. I found myself much more intrigued by designing the entire structure itself rather than just focusing on the spaces inside it.
+
+Looking into all 3 topics helped me identify what I enjoy most I realized that I am most interested in the challenge of designing large scale structures while balancing creativity with real world requirements, which is why I ultimately chose architecture.
 
 ##### X/X/XX
 
