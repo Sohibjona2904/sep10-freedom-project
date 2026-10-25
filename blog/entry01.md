@@ -20,6 +20,12 @@ Interior design was another field I looked into. Compared to Automotive design a
 
 Looking into all 3 topics helped me identify what I enjoy most I realized that I am most interested in the challenge of designing large scale structures while balancing creativity with real world requirements, which is why I ultimately chose architecture.
 
+## Engineering Designing Process 
+
+At this point, I am in the defining and research stages of the engineering design process. My current goal is to learn more about architects. Before this project, I most thought about architecture from a design perspective. my research introduced me to technologies such as BIM, virtual reality, and artificial intelligence, which showed me that architecture involves far more planning and analysis than I originally realized.
+
+The next phase of the engineering design process will involve continuing  my research and beginning to explore possible directions for my project. Before deciding on a final product, I want to develop a better understanding of the field and the technologies shaping its future.
+
 ##### X/X/XX
 
 Text
