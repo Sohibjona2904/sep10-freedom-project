@@ -26,6 +26,16 @@ At this point, I am in the defining and research stages of the engineering desig
 
 The next phase of the engineering design process will involve continuing  my research and beginning to explore possible directions for my project. Before deciding on a final product, I want to develop a better understanding of the field and the technologies shaping its future.
 
+## Skills
+
+Although choosing a topic may seem simple at first, it ended up requiring much more thought than I expected. Since this project will continue throughout the year I wanted to pick a topic that genuinely interested me over picking the first or easiest topic that I found. Throughout the section process, I spent time comparing different topics, and considering what exactly about them attracted me to each one. As a result, I developed several skills that extend beyond this project. In particular, the process improved both my research and decision-making skills. Research helped me evaluate different topics and gather information from multiple sources, while decision making allowed me to compare several strong options and determine which topic best matched my interests and long term goals.
+
+### Research 
+
+One skill that I improved was research. Choosing a topic required more than picking something that sounded interesting. I had to compare multiple subjects, look through different sources, and determine which topic would be best fit for a year ling project. This process helped me become more thoughtful about evaluating information before making a decision.
+
+As I researched architecture, I learned that different sources often focus on different aspects of the field. Some discussed emerging technologies such as AI and digital design tools, while others focused on how architects use technology to improve communication, planning visualization, and sustainability. 
+
 ##### X/X/XX
 
 Text
