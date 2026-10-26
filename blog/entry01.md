@@ -4,11 +4,11 @@
 
 For my Freedom Project, I decided to focus on architecture.
 
-The main reason I chose architecture is that I always have enjoyed playing around with 3 dimensional structures while working within a set of limitations. In the past, most of my experience with this was through digital environments, where I would build things while following certain rules or restrictions. Over time, I realized that I enjoyed this type of problem solving outside of those environments as well.
+The main reason I chose architecture is that I have always enjoyed playing around with 3 dimensional structures while working within a set of limitations. In the past, most of my experience with this was through digital environments, where I would build things while following certain rules or restrictions. Over time, I realized that I enjoyed this type of problem solving outside of those environments as well.
 
-What interests me about architecture is that every project has constraints. A building has to be both safe, functional while still meeting the expectations of the people who would use it. Instead of seeing these constraints of obstacles I see them as tools in my design process that balance my creativity with reality.
+What interests me about architecture is that every project has constraints. A building has to be both safe and functional while still meeting the expectations of the people who would use it. Instead of seeing these constraints as obstacles, I see them as tools in my design process that balance my creativity with reality.
 
-While exploring this topic  I read articles such as [The Impact of Emerging AI Technologies on Architecture](https://communityhub.aia.org/blogs/rebecca-w-edmunds-aia/2023/09/06/the-impact-of-emerging-ai-technologies-on-architec), (How Tech Will Change Architecture Over the Next 10 Years)[https://www.nichiha.com/how-tech-will-change-architecture-over-the-next-10-years]. These sources helped me see that architecture is much more than designing buildings. Modern architects use technologies such as Building Information Modeling (BIM), virtual reality digital simulations, and artificial intelligence to test ideas, improve designs, and solve problems before construction even begins. Learning about these technologies made architecture even more interesting to me because it let me combine creativity, technology and problem solving more easily.
+While exploring this topic, I read articles such as [The Impact of Emerging AI Technologies on Architecture](https://communityhub.aia.org/blogs/rebecca-w-edmunds-aia/2023/09/06/the-impact-of-emerging-ai-technologies-on-architec), [How Tech Will Change Architecture Over the Next 10 Years](https://www.nichiha.com/how-tech-will-change-architecture-over-the-next-10-years). These sources helped me see that architecture is much more than designing buildings. Modern architects use technologies such as Building Information Modeling (BIM), virtual reality digital simulations, and artificial intelligence to test ideas, improve designs, and solve problems before construction even begins. Learning about these technologies made architecture even more interesting to me because it let me combine creativity, technology and problem solving more easily.
 
 ## Other Topics I Considered
 
@@ -16,29 +16,35 @@ Before deciding on architecture I also considered automotive design and interior
 
 Automotive design appealed to me because it shares similarities to architecture. Designing a vehicle requires fitting many components into a tight space while accounting for thermodynamics, its repeatability and cost. I liked how much thought goes into creating a design under strict constraints. However, I felt architecture would allow me to be a little more creative in my design process on a much larger scale.
 
-Interior design was another field I looked into. Compared to Automotive design and Architecture it allows me to take more creative freedoms.  However, I found it to be more subjective because different people may have different opinions regarding the design. I found myself much more intrigued by designing the entire structure itself rather than just focusing on the spaces inside it.
+Interior design was another field I looked into. Compared to Automotive design and Architecture it allows me to take more creative freedoms. However, I found it to be more subjective because different people may have different opinions regarding the design. I found myself much more intrigued by designing the entire structure itself rather than just focusing on the spaces inside it.
 
-Looking into all 3 topics helped me identify what I enjoy most I realized that I am most interested in the challenge of designing large scale structures while balancing creativity with real world requirements, which is why I ultimately chose architecture.
+Looking into all 3 topics helped me identify what I enjoy most. I realized that I am most interested in the challenge of designing large scale structures while balancing creativity with real world requirements, which is why I ultimately chose architecture.
 
-## Engineering Designing Process 
+## Engineering Design Process 
 
-At this point, I am in the defining and research stages of the engineering design process. My current goal is to learn more about architects. Before this project, I most thought about architecture from a design perspective. my research introduced me to technologies such as BIM, virtual reality, and artificial intelligence, which showed me that architecture involves far more planning and analysis than I originally realized.
+At this point, I am in the defining and research stages of the engineering design process. My current goal is to learn more about architects. Before this project, I mostlu thought about architecture from a design perspective. My research introduced me to technologies such as BIM, virtual reality, and artificial intelligence, which showed me that architecture involves far more planning and analysis than I originally realized.
 
-The next phase of the engineering design process will involve continuing  my research and beginning to explore possible directions for my project. Before deciding on a final product, I want to develop a better understanding of the field and the technologies shaping its future.
+The next phase of the engineering design process will involve continuing my research and beginning to explore possible directions for my project. Before deciding on a final product, I want to develop a better understanding of the field and the technologies shaping its future.
 
 ## Skills
 
-Although choosing a topic may seem simple at first, it ended up requiring much more thought than I expected. Since this project will continue throughout the year I wanted to pick a topic that genuinely interested me over picking the first or easiest topic that I found. Throughout the section process, I spent time comparing different topics, and considering what exactly about them attracted me to each one. As a result, I developed several skills that extend beyond this project. In particular, the process improved both my research and decision-making skills. Research helped me evaluate different topics and gather information from multiple sources, while decision making allowed me to compare several strong options and determine which topic best matched my interests and long term goals.
+Although choosing a topic may seem simple at first, it ended up requiring much more thought than I expected. Since this project will continue throughout the year I wanted to pick a topic that genuinely interested me over picking the first or easiest topic that I found. Throughout the selection process, I spent time comparing different topics, and considering what exactly about them attracted me to each one. As a result, I developed several skills that extend beyond this project. In particular, the process improved both my research and decision-making skills. Research helped me evaluate different topics and gather information from multiple sources, while decision making allowed me to compare several strong options and determine which topic best matched my interests and long term goals.
 
 ### Research 
 
-One skill that I improved was research. Choosing a topic required more than picking something that sounded interesting. I had to compare multiple subjects, look through different sources, and determine which topic would be best fit for a year ling project. This process helped me become more thoughtful about evaluating information before making a decision.
+One skill that I improved was research. Choosing a topic required more than picking something that sounded interesting. I had to compare multiple subjects, look through different sources, and determine which topic would be best fit for a year long project. This process helped me become more thoughtful about evaluating information before making a decision.
 
-As I researched architecture, I learned that different sources often focus on different aspects of the field. Some discussed emerging technologies such as AI and digital design tools, while others focused on how architects use technology to improve communication, planning visualization, and sustainability. 
+As I researched architecture, I learned that different sources often focus on different aspects of the field. Some discussed emerging technologies such as AI and digital design tools, while others focused on how architects use technology to improve communication, planning visualization, and sustainability. Reading multiple sources helped me build a broader understanding of the topic and reinforced the importance of looking at information from several perspectives.
 
-##### X/X/XX
+### Decision Making
 
-Text
+Another skill that I improved was decision making. Choosing a topic was difficult because architecture, automotive design, and interior design all interested me in similar ways. Each involved designing within limitations and balancing creativity with practicality. Because of this, it wasn't immediately obvious which topic was the best fit.
+
+To make my final decision, I focused on identifying which topic represented the type of challenge that interested me most. This process helped me realize that architecture was the strongest match for my interests and taught me to think more carefully about why I make certain choices rather than simply choosing what came to mind first.
+
+## Looking Ahead
+
+Now that I have chosen a topic, I am looking forward to learning more about architecture and the technology that supports it. I hope to better understand how architects combine creativity, engineering, and problem solving to create structures that meet real world standards. I am especially interested in learning about technologies like BIM, VR, and AI, and how they are changing the way architects design and plan buildings.
 
 [Next](entry02.md)
 
